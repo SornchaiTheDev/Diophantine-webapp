@@ -2,5 +2,5 @@
 # Stacks 
  - NextJS
  - Tailwind CSS
- # Features :
+ # Features 
  - หาผลเฉลยของสมการไดโอแฟนไทน์เชิงเส้น n ตัวแปร (โปรแกรมสำเร็จรูป)
